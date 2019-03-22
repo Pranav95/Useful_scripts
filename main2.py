@@ -40,6 +40,8 @@ with db.connect() as conn:
     conn.execute(delete_statement)
 
 
+    
+    #http://www.blog.pythonlibrary.org/2017/12/14/flask-101-adding-editing-and-displaying-data/
 
 
 
